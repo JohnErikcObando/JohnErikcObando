@@ -11,7 +11,7 @@
 
 ⚡ Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 
 ## 🛠️ Tecnologías y Herramientas  
 ### 📌 Lenguajes  
