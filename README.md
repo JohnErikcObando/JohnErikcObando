@@ -9,9 +9,9 @@
 💬 **Pregúntame sobre:** **JavaScript, TypeScript, Angular o Node.js**.  
 🎵 **Dato curioso:** Me encanta la música **anime** y los **videojuegos**.  
 
-### 📊 Actividad Reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+⚡ Recent Activity
+<!--START_SECTION:activity-->
+
 
 ## 🛠️ Tecnologías y Herramientas  
 ### 📌 Lenguajes  
