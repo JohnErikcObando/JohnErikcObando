@@ -11,6 +11,11 @@
 
 ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#5](https://github.com/JohnErikcObando/miPrimerRepo/issues/5) in [JohnErikcObando/miPrimerRepo](https://github.com/JohnErikcObando/miPrimerRepo)
+2. 🎉 Merged PR [#6](https://github.com/JohnErikcObando/miPrimerRepo/pull/6) in [JohnErikcObando/miPrimerRepo](https://github.com/JohnErikcObando/miPrimerRepo)
+3. 💪 Opened PR [#6](https://github.com/JohnErikcObando/miPrimerRepo/pull/6) in [JohnErikcObando/miPrimerRepo](https://github.com/JohnErikcObando/miPrimerRepo)
+4. 🔒 Closed issue [#3](https://github.com/JohnErikcObando/miPrimerRepo/issues/3) in [JohnErikcObando/miPrimerRepo](https://github.com/JohnErikcObando/miPrimerRepo)
+5. ❗ Opened issue [#5](https://github.com/JohnErikcObando/miPrimerRepo/issues/5) in [JohnErikcObando/miPrimerRepo](https://github.com/JohnErikcObando/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tecnologías y Herramientas  
